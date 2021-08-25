@@ -1,0 +1,21 @@
+get bread
+get peanut butter
+get jelly
+open bread
+open peanut butter
+open jelly
+place bread on napkin or plate
+apply peanut butter to bread
+apply jelly to bread
+get second piece of bread
+put second piece of bread on peanut butter and jelly covered bread 
+eat sandwich 
+if hungry still 
+repeat step 7-12
+if not hungry
+close bread 
+close peanut butter
+close jelly
+put bread away
+put peanut butter away
+put jelly away 
